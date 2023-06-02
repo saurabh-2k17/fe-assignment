@@ -1,0 +1,14 @@
+section {
+    width: 70%;
+  }
+  
+  aside {
+    width: 25%;
+  }
+
+.container {
+  display: flex;
+}
+  
+  /* Additional CSS for Page 2 */
+  
